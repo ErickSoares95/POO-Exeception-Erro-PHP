@@ -1,0 +1,16 @@
+{
+    "name": "erick.lira/streams",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Erick\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Erick de Lira Soares",
+            "email": "ericklira99@gmail.com"
+        }
+    ],
+    "require": {}
+}
